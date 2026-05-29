@@ -1,0 +1,77 @@
+{
+  "replacement_rules": [
+    {
+      "name": "remove",
+      "replace_ids": [
+        12613283355,
+        14652718299,
+        12613284249,
+        12613283569,
+        12613284529,
+        12613284768
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "bunny rifle",
+      "replace_ids": [
+        12613284036
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/Jerem/Downloads/bunnyriflev2.obj"
+    },
+    {
+      "name": "mgical bunny shoot sound",
+      "replace_ids": [
+        13087362838
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/Jerem/Downloads/magical_bunny_gun_hit (1) (1).wav"
+    },
+    {
+      "name": "medkitty to bunny inspect",
+      "replace_ids": [
+        13010893629
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 100889196535171
+    },
+    {
+      "name": "reload",
+      "replace_ids": [
+        13010900962,
+        3,
+        1
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17266003293
+    },
+    {
+      "name": "reload sound",
+      "replace_ids": [
+        13158735106,
+        13236549929,
+        13236549962,
+        13455395017
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 100664516053133
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        13236549929,
+        13236549962,
+        13455395017
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
